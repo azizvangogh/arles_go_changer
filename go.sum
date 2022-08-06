@@ -1,0 +1,4 @@
+github.com/millefalcon/go-subprocess v0.0.0-20191211134855-6849f1fcbe06 h1:hFe3OQ6dmeqlG8ZnX/A96TED2vXnvHKFStrlGZNqrfw=
+github.com/millefalcon/go-subprocess v0.0.0-20191211134855-6849f1fcbe06/go.mod h1:wbW6VHr3Lk7m4HKgbzuVeR6wXUbxqgPncY7gmCHo2a4=
+gopkg.in/go-rillas/subprocess.v1 v1.0.1 h1:7BKf22lkgKdPh5/tnAtUI9oE3BQNwaAlCB4g4DMcuvw=
+gopkg.in/go-rillas/subprocess.v1 v1.0.1/go.mod h1:SEn6IkZR3/CKq2aWTZbCyXDKR1NBUr72knNTVL7vdeo=
